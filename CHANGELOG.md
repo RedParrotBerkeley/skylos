@@ -1,5 +1,12 @@
 ## Changelog
 
+## [4.3.3](https://github.com/duriantaco/skylos/compare/v4.3.2...v4.3.3) (2026-04-11)
+
+
+### Bug Fixes
+
+* **ci:** publish releases from tags ([#196](https://github.com/duriantaco/skylos/issues/196)) ([be5e6ee](https://github.com/duriantaco/skylos/commit/be5e6eee92fe48b1b48410946fa3ddba6c9cf709))
+
 ## [4.3.2](https://github.com/duriantaco/skylos/compare/v4.3.1...v4.3.2) (2026-04-10)
 
 
